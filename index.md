@@ -12,8 +12,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+<h1>BIENVENIDOS!</h1>
 ## Header 2
+<h2>MI NUEVA PAGINA </h2>
 ### Header 3
+<p>5-0te acuerdas y te duele</p>
 
 - Bulleted
 - List
